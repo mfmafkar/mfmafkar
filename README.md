@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working  at [Wiley](https://www.linkedin.com/company/john-wiley-and-sons/),
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ....
+<!-- - 🌱 I’m currently learning ...  -->
+<!--- 👯 I’m looking to collaborate on ... -->
+<!--- 🤔 I’m looking for help with ... -->
+<!--- 💬 Ask me about ....-->
 - 📫 How to reach me: mfmafkar@gmail.com
 
 
